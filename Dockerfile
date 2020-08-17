@@ -8,7 +8,7 @@ ENV BOKEH_RESOURCES=cdn
 
 RUN apt-get install git bash
 
-RUN git clone https://vlouf:5c604eeb5018c9e7d9deb455a75b3cdd238ca324@github.com/vlouf/s3car.git
+RUN git clone https://vlouf@github.com/vlouf/s3car.git
 # RUN git clone --branch $BK_VERSION https://github.com/bokeh/bokeh.git /bokeh
 
 # RUN mkdir -p /examples && cp -r /bokeh/examples/app /examples/ && rm -rf /bokeh
