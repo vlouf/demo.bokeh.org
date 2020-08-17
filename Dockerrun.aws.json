@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "bokeh/demo.bokeh.org",
+    "Name": "s3car",
     "Update": "true"
   },
   "Ports": [
